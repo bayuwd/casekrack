@@ -465,3 +465,42 @@ body {
   text-shadow: 0 8px 16px rgba(0, 0, 255, 0.15);
   transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1); /* Faster snap on click */
 }
+
+/* Mobile Responsiveness */
+@media (max-width: 1200px) {
+  .calendar-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 992px) {
+  .calendar-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .calendar-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .casekrack-logo {
+    font-size: 2rem;
+  }
+  .endless-generator-block {
+    padding: 40px 16px !important;
+  }
+  .endless-generator-block h2 {
+    font-size: 2rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .calendar-grid {
+    grid-template-columns: repeat(1, 1fr);
+    grid-auto-rows: 250px;
+  }
+  .poster-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 4px 4px 0px var(--text-primary);
+  }
+}

@@ -6,26 +6,8 @@ import PromptModal from './components/PromptModal';
 function App() {
   const [selectedBrief, setSelectedBrief] = useState(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [completedCases, setCompletedCases] = useState([]);
 
   const [autoDownload, setAutoDownload] = useState(false);
-
-  useEffect(() => {
-    const savedCompleted = localStorage.getItem('casekrack-completed');
-    if (savedCompleted) {
-      setCompletedCases(JSON.parse(savedCompleted));
-    }
-  }, []);
-
-  const toggleComplete = (id) => {
-    setCompletedCases(prev => {
-      const newCompleted = prev.includes(id) 
-        ? prev.filter(cId => cId !== id)
-        : [...prev, id];
-      localStorage.setItem('casekrack-completed', JSON.stringify(newCompleted));
-      return newCompleted;
-    });
-  };
 
   const openModal = (brief) => {
     setSelectedBrief(brief);
@@ -65,12 +47,11 @@ function App() {
         {briefs.slice(0, 30).map((brief, index) => {
           const tags = brief.deliverables.split(',').slice(0, 3).map(tag => tag.trim());
           const isInverse = index % 2 !== 0;
-          const isCompleted = completedCases.includes(brief.id);
 
           return (
             <div 
               key={brief.id} 
-              className={`poster-card ${isInverse ? 'inverse' : ''} ${isCompleted ? 'completed' : ''}`}
+              className={`poster-card ${isInverse ? 'inverse' : ''}`}
               onClick={() => openModal(brief)}
             >
               <div className="poster-tag-container">
@@ -116,8 +97,6 @@ function App() {
           isOpen={isModalOpen} 
           onClose={closeModal} 
           brief={selectedBrief} 
-          isCompleted={selectedBrief && completedCases.includes(selectedBrief.id)}
-          onToggleComplete={() => toggleComplete(selectedBrief.id)}
           autoDownload={autoDownload}
         />
       )}

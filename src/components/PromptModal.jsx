@@ -3,7 +3,7 @@ import { X, Download, CheckCircle, Circle } from 'lucide-react';
 import html2pdf from 'html2pdf.js';
 import './PromptModal.css';
 
-export default function PromptModal({ isOpen, onClose, brief, isCompleted, onToggleComplete, autoDownload }) {
+export default function PromptModal({ isOpen, onClose, brief, autoDownload }) {
   if (!isOpen || !brief) return null;
 
   const handleDownloadPDF = async () => {
@@ -46,7 +46,21 @@ export default function PromptModal({ isOpen, onClose, brief, isCompleted, onTog
         
         <div className="modal-scroll-wrapper" style={{ flex: 1, overflowY: 'auto', padding: '20px', textAlign: 'left' }}>
           <div id="pdf-content" style={{ padding: '20px' }}>
-            <h2 className="modal-title" style={{ marginTop: 0 }}>{brief.title || brief.client}</h2>
+            <div className="brief-header" style={{ marginBottom: '40px', borderBottom: '2px solid var(--text-primary)', paddingBottom: '24px' }}>
+              {brief.title && (
+                <div style={{ fontSize: '1.2rem', fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: '1px', opacity: 0.7, marginBottom: '8px' }}>
+                  Project: {brief.title} &nbsp; | &nbsp; {brief.client}
+                </div>
+              )}
+              <h2 className="modal-title brand-heading">
+                {brief.brandName || brief.client}
+              </h2>
+              {brief.tagline && (
+                <h3 className="modal-tagline">
+                  "{brief.tagline}"
+                </h3>
+              )}
+            </div>
             
             <div className="prompt-result-container" style={{ overflowY: 'visible', margin: 0 }}>
               <div className="prompt-result">
@@ -141,15 +155,6 @@ export default function PromptModal({ isOpen, onClose, brief, isCompleted, onTog
 
         {/* Action Buttons (Excluded from PDF) */}
         <div className="modal-actions" style={{ display: 'flex', flexWrap: 'wrap', gap: '16px', marginTop: '16px', paddingTop: '24px', borderTop: '2px solid var(--text-primary)', justifyContent: 'space-between' }}>
-          <button 
-            className="action-btn"
-            onClick={onToggleComplete}
-            style={{ display: 'flex', alignItems: 'center', gap: '8px', padding: '12px 24px', background: isCompleted ? 'var(--text-primary)' : 'transparent', color: isCompleted ? 'var(--bg-color)' : 'var(--text-primary)', border: '2px solid var(--text-primary)', fontWeight: 'bold', cursor: 'pointer', transition: 'all 0.2s', flex: 1, justifyContent: 'center' }}
-          >
-            {isCompleted ? <CheckCircle size={20} /> : <Circle size={20} />}
-            {isCompleted ? 'Marked as Completed' : 'Mark as Completed'}
-          </button>
-          
           <button 
             className="action-btn"
             onClick={handleDownloadPDF}
