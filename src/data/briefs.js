@@ -20,7 +20,9 @@ export const briefs = [
     "typography": "Primary: Helvetica Now Display (Black), Secondary: Space Mono.",
     "keyFeatures": "High-contrast dark mode e-commerce flow, interactive 3D bag viewer, clinical subscription dashboard.",
     "budgetTimeline": "8 weeks, $120k.",
-    "whyNow": "Flagship roastery opens in 3 months; the brand identity must be finalized before architectural signage and packaging goes to print."
+    "whyNow": "Flagship roastery opens in 3 months; the brand identity must be finalized before architectural signage and packaging goes to print.",
+    "brandName": "Nocturne Roasters",
+    "tagline": "Awaken the Dark."
   },
   {
     "id": 2,
@@ -43,7 +45,9 @@ export const briefs = [
     "typography": "Primary: Roobert, Secondary: Inter.",
     "keyFeatures": "Swipe-based portfolio navigation, fluid blob charts for asset allocation, zero-jargon tooltip system.",
     "budgetTimeline": "12 weeks, $250k.",
-    "whyNow": "Competitors are gaining market share and the current app is bleeding users; regulatory changes next quarter require a UI overhaul anyway."
+    "whyNow": "Competitors are gaining market share and the current app is bleeding users; regulatory changes next quarter require a UI overhaul anyway.",
+    "brandName": "Vertex Wealth",
+    "tagline": "Invest Without the Noise."
   },
   {
     "id": 3,
@@ -66,7 +70,9 @@ export const briefs = [
     "typography": "Primary: Ogg Roman, Secondary: GT America Standard.",
     "keyFeatures": "Custom SVG mask animations for ingredient reveals, seamless scroll hijacking for the brand story, opulent micro-interactions.",
     "budgetTimeline": "6 weeks, $90k.",
-    "whyNow": "The new serum line launches for the holiday season; the current beige branding will get lost during the Q4 retail rush."
+    "whyNow": "The new serum line launches for the holiday season; the current beige branding will get lost during the Q4 retail rush.",
+    "brandName": "Verdant Alchemy",
+    "tagline": "Nature's Opulence, Refined."
   },
   {
     "id": 4,
@@ -89,7 +95,9 @@ export const briefs = [
     "typography": "Primary: IBM Plex Mono, Secondary: SF Pro Display.",
     "keyFeatures": "High-contrast 'Crisis Mode' toggle, resizable grid widgets, color-blind accessible data visualizations.",
     "budgetTimeline": "16 weeks, $350k.",
-    "whyNow": "A new constellation of 50 satellites is launching next month, and the legacy system cannot handle the data density."
+    "whyNow": "A new constellation of 50 satellites is launching next month, and the legacy system cannot handle the data density.",
+    "brandName": "Orbitron Telemetry",
+    "tagline": "Clarity in the Void."
   },
   {
     "id": 5,
@@ -112,7 +120,9 @@ export const briefs = [
     "typography": "Primary: Custom Hand-Lettered Distressed Marker, Secondary: Druk Wide Heavy.",
     "keyFeatures": "WebGL interactive 3D can rotation on the website, brutalist age-gate, hidden easter eggs on hover.",
     "budgetTimeline": "10 weeks, $180k.",
-    "whyNow": "Expanding into national supermarket chains; the current industrial branding is completely invisible next to modern hyper-minimalist competitors."
+    "whyNow": "Expanding into national supermarket chains; the current industrial branding is completely invisible next to modern hyper-minimalist competitors.",
+    "brandName": "Riot Forge Brewing",
+    "tagline": "Brewed to Rebel."
   },
   {
     "id": 6,
@@ -135,7 +145,9 @@ export const briefs = [
     "typography": "Primary: Moderat, Secondary: Circular Std.",
     "keyFeatures": "Scroll-triggered WebGL 'chaos-to-order' animation, glassmorphism pricing cards, jargon-free toggle switches.",
     "budgetTimeline": "5 weeks, $85k.",
-    "whyNow": "Series A funding just closed; the marketing spend is ramping up next month and the current conversion rate is abysmal."
+    "whyNow": "Series A funding just closed; the marketing spend is ramping up next month and the current conversion rate is abysmal.",
+    "brandName": "Aether Vault",
+    "tagline": "Secure the Ethereal."
   },
   {
     "id": 7,
@@ -158,7 +170,9 @@ export const briefs = [
     "typography": "Primary: GT Super Display, Secondary: Neue Haas Grotesk.",
     "keyFeatures": "Interactive AR 'view in room' component, step-by-step 3D assembly animations, dynamic modular configurator.",
     "budgetTimeline": "14 weeks, $210k.",
-    "whyNow": "Entering the European market next quarter; the brand needs to shed its 'startup' feel and establish itself as a premium design house."
+    "whyNow": "Entering the European market next quarter; the brand needs to shed its 'startup' feel and establish itself as a premium design house.",
+    "brandName": "Modulux",
+    "tagline": "Architect Your Space."
   },
   {
     "id": 8,
@@ -181,7 +195,9 @@ export const briefs = [
     "typography": "Primary: Neue Machina, Secondary: Suisse Int'l.",
     "keyFeatures": "Gesture-only navigation, dynamic AI transcription UI that scales with volume, minimalist 'Silent Mode' toggle.",
     "budgetTimeline": "10 weeks, $195k.",
-    "whyNow": "Beta testing just concluded; user feedback heavily criticized the cluttered navigation, and the public launch is scheduled before the end of the year."
+    "whyNow": "Beta testing just concluded; user feedback heavily criticized the cluttered navigation, and the public launch is scheduled before the end of the year.",
+    "brandName": "Sonar Connect",
+    "tagline": "Listen to the Masters."
   },
   {
     "id": 9,
@@ -204,7 +220,9 @@ export const briefs = [
     "typography": "Primary: Canela, Secondary: Founders Grotesk.",
     "keyFeatures": "Interactive digital 'scent profile' quiz, rich scroll-based storytelling for the Gothic inspiration, premium checkout flow.",
     "budgetTimeline": "8 weeks, $140k.",
-    "whyNow": "The holiday gifting season is approaching; the brand needs a highly tactile unboxing experience to justify the premium price tag."
+    "whyNow": "The holiday gifting season is approaching; the brand needs a highly tactile unboxing experience to justify the premium price tag.",
+    "brandName": "Obsidian Wick",
+    "tagline": "Ignite the Lore."
   },
   {
     "id": 10,
@@ -227,7 +245,9 @@ export const briefs = [
     "typography": "Primary: SF Pro Rounded, Secondary: Inter.",
     "keyFeatures": "Drag-and-drop color blobs, real-time background color syncing with physical lights, intuitive scheduling timeline.",
     "budgetTimeline": "12 weeks, $220k.",
-    "whyNow": "Competitors are releasing new apps that make this one look archaic; hardware sales are being dragged down by the terrible software experience."
+    "whyNow": "Competitors are releasing new apps that make this one look archaic; hardware sales are being dragged down by the terrible software experience.",
+    "brandName": "ChromaShift",
+    "tagline": "Paint with Light."
   },
   {
     "id": 11,
@@ -250,7 +270,9 @@ export const briefs = [
     "typography": "Primary: GT Sectra (for its sharp, angular serifs), Secondary: Inter (for clean, legible body copy).",
     "keyFeatures": "Vibrant geometric packaging patterns, hidden origin illustrations on inner foil, subtle embossed brand mark.",
     "budgetTimeline": "8 weeks, $45k.",
-    "whyNow": "Holiday season is approaching, and the brand needs shelf-presence in high-end boutiques to capture gift-givers."
+    "whyNow": "Holiday season is approaching, and the brand needs shelf-presence in high-end boutiques to capture gift-givers.",
+    "brandName": "Origin Motif",
+    "tagline": "Taste the Landscape."
   },
   {
     "id": 12,
@@ -273,7 +295,9 @@ export const briefs = [
     "typography": "Primary: Lora (soft, approachable serif), Secondary: Proxima Nova Soft (rounded, friendly sans-serif).",
     "keyFeatures": "Breathing audio player with 6 bpm pulsing, completely fluid UI with no sharp corners, organic slow-loading animations.",
     "budgetTimeline": "12 weeks, $110k.",
-    "whyNow": "A major competitor just launched a corporate wellness package, and Zenith needs to retain its executive user base."
+    "whyNow": "A major competitor just launched a corporate wellness package, and Zenith needs to retain its executive user base.",
+    "brandName": "Exhale Wellness",
+    "tagline": "Breathe In Clarity."
   },
   {
     "id": 13,
@@ -296,7 +320,9 @@ export const briefs = [
     "typography": "Primary: Druk Wide (loud, brutalist), Secondary: Space Mono (raw, utilitarian).",
     "keyFeatures": "Intentionally glitched or misaligned labels, high-contrast black and white with neon wax seals, typography-led design.",
     "budgetTimeline": "6 weeks, $35k.",
-    "whyNow": "The new vintage is bottling in two months, and they have an exclusive tasting event scheduled for industry insiders."
+    "whyNow": "The new vintage is bottling in two months, and they have an exclusive tasting event scheduled for industry insiders.",
+    "brandName": "Glitch Vineyards",
+    "tagline": "Pour the Chaos."
   },
   {
     "id": 14,
@@ -319,7 +345,9 @@ export const briefs = [
     "typography": "Primary: Ogg (expressive, organic serif), Secondary: Avenir Next (clean, understated).",
     "keyFeatures": "Maker's mark logo stamp, custom molded pulp inserts matching the ceramic shapes, natural unglazed clay color palette.",
     "budgetTimeline": "10 weeks, $85k.",
-    "whyNow": "Global e-commerce launch is imminent, and the current packaging cannot survive international shipping while maintaining a luxury feel."
+    "whyNow": "Global e-commerce launch is imminent, and the current packaging cannot survive international shipping while maintaining a luxury feel.",
+    "brandName": "Wabi Ceramics",
+    "tagline": "Formed by Earth."
   },
   {
     "id": 15,
@@ -342,7 +370,9 @@ export const briefs = [
     "typography": "Primary: Eurostile (classic aerospace tech vibe), Secondary: Roboto Mono (for detailed engineering specs).",
     "keyFeatures": "Ultra-simple head-tube metal badge, classified blueprint style spec sheet, raw titanium finish styling.",
     "budgetTimeline": "8 weeks, $60k.",
-    "whyNow": "Expanding production capacity slightly, aiming to justify a price hike to $6,000+ per frame."
+    "whyNow": "Expanding production capacity slightly, aiming to justify a price hike to $6,000+ per frame.",
+    "brandName": "AeroCore Titanium",
+    "tagline": "Forged for the Obsessed."
   },
   {
     "id": 16,
@@ -365,7 +395,9 @@ export const briefs = [
     "typography": "Primary: Cooper Black (retro, playful, bold), Secondary: Brandon Grotesque (warm, legible).",
     "keyFeatures": "Playful interactive pint lids with puzzles, rich mouth-watering color palette, completely obscuring the 'vegan' label visually.",
     "budgetTimeline": "6 weeks, $50k.",
-    "whyNow": "Summer ice cream buying season is starting, and they need to break out of the 'health food' aisle."
+    "whyNow": "Summer ice cream buying season is starting, and they need to break out of the 'health food' aisle.",
+    "brandName": "Velvet Rush",
+    "tagline": "Wicked Indulgence."
   },
   {
     "id": 17,
@@ -388,7 +420,9 @@ export const briefs = [
     "typography": "Primary: Monument Extended (sharp, architectural), Secondary: Helvetica Now Display (ultra-clean).",
     "keyFeatures": "Origami-style plastic-free razor packaging, matte charcoal and brushed steel finishes, minimalist typography.",
     "budgetTimeline": "14 weeks, $130k.",
-    "whyNow": "A massive direct-to-consumer push is launching next quarter, backed by new series A funding."
+    "whyNow": "A massive direct-to-consumer push is launching next quarter, backed by new series A funding.",
+    "brandName": "Slate & Steel",
+    "tagline": "Refine the Man."
   },
   {
     "id": 18,
@@ -411,7 +445,9 @@ export const briefs = [
     "typography": "Primary: Neue Haas Grotesk (Swiss precision), Secondary: Courier Prime (raw data feel).",
     "keyFeatures": "Abstract modern art Scoville visualization, pure white labels with intense slashes of color, minimalist bottle.",
     "budgetTimeline": "5 weeks, $30k.",
-    "whyNow": "Hot sauce festival season is approaching and they need an identity that makes them the 'sophisticated' option."
+    "whyNow": "Hot sauce festival season is approaching and they need an identity that makes them the 'sophisticated' option.",
+    "brandName": "Scoville Arts",
+    "tagline": "The Art of Heat."
   },
   {
     "id": 19,
@@ -434,7 +470,9 @@ export const briefs = [
     "typography": "Primary: VCR OSD Mono (nostalgic tech), Secondary: Neue Machina (industrial/mechanical).",
     "keyFeatures": "Die-cut viewfinder outer box, hidden holographic sticker, massive brutalist ISO/exposure typography.",
     "budgetTimeline": "7 weeks, $45k.",
-    "whyNow": "Capitalizing on the massive Gen-Z analog photography trend before a major competitor releases a similar warm-shift film."
+    "whyNow": "Capitalizing on the massive Gen-Z analog photography trend before a major competitor releases a similar warm-shift film.",
+    "brandName": "Neon Vision Film",
+    "tagline": "Capture the Shift."
   },
   {
     "id": 20,
@@ -457,7 +495,9 @@ export const briefs = [
     "typography": "Primary: Bodoni (classic Italian luxury), Secondary: Futura (mid-century European clean).",
     "keyFeatures": "Purely typographic logo, heavy rigid hexagonal cardboard tube packaging, premium tactile paper stocks.",
     "budgetTimeline": "10 weeks, $75k.",
-    "whyNow": "Holiday gifting season for gourmet food baskets is driving demand for premium pantry staples."
+    "whyNow": "Holiday gifting season for gourmet food baskets is driving demand for premium pantry staples.",
+    "brandName": "Heritage Grain Co.",
+    "tagline": "Authenticity Rolled."
   },
   {
     "id": 21,
@@ -480,7 +520,9 @@ export const briefs = [
     "typography": "Primary: Monument Extended (for stark, brutalist headlines), Secondary: Inter (for clean, legible body copy).",
     "keyFeatures": "Custom reusable industrial carrying straps, stark contrast wrapping paper system, digital lookbook for high-end clientele.",
     "budgetTimeline": "6 weeks, $45k",
-    "whyNow": "Upcoming fashion week season is 2 months away; they need the rebrand launched to secure high-ticket event contracts."
+    "whyNow": "Upcoming fashion week season is 2 months away; they need the rebrand launched to secure high-ticket event contracts.",
+    "brandName": "Brutal Bloom",
+    "tagline": "Nature, Unforgiving."
   },
   {
     "id": 22,
@@ -503,7 +545,9 @@ export const briefs = [
     "typography": "Primary: GT Super (for elegant, heritage-inspired serif headers), Secondary: Courier Prime (for typewriter-style tech specs and passports).",
     "keyFeatures": "Leather-bound Owner's Passport, custom mother-of-pearl headstock inlay design, hot-iron branded internal soundhole label.",
     "budgetTimeline": "8 weeks, $60k",
-    "whyNow": "A major competitor just launched a vintage re-issue line; Timberline must assert its dominance in authentic craftsmanship before the holiday custom-order cutoff."
+    "whyNow": "A major competitor just launched a vintage re-issue line; Timberline must assert its dominance in authentic craftsmanship before the holiday custom-order cutoff.",
+    "brandName": "Resonance Acoustics",
+    "tagline": "Crafted for the Soul."
   },
   {
     "id": 23,
@@ -526,7 +570,9 @@ export const briefs = [
     "typography": "Primary: Ogg (for luxurious, sweeping, aristocratic titles), Secondary: Helvetica Now Micro (for ultra-minimalist nutritional information).",
     "keyFeatures": "Opaque matte black ceramic bottle design, blind-embossed topographic harvest map label, custom wax-sealed hang tag detailing the harvest date.",
     "budgetTimeline": "10 weeks, $85k",
-    "whyNow": "The new harvest season begins in three months. The packaging must be finalized for the limited 'First Press' release to maximize exclusivity."
+    "whyNow": "The new harvest season begins in three months. The packaging must be finalized for the limited 'First Press' release to maximize exclusivity.",
+    "brandName": "Olea Heritage",
+    "tagline": "Uncompromising Greek Terroir."
   },
   {
     "id": 24,
@@ -549,7 +595,9 @@ export const briefs = [
     "typography": "Primary: Futura PT (for stark, geometric precision), Secondary: Roboto Mono (for rulebook instructions and scoring).",
     "keyFeatures": "Massive fold-out poster rulebook/wall art, fully abstract geometric token designs, sleek minimalist box cover with spot UV gloss.",
     "budgetTimeline": "12 weeks, $75k",
-    "whyNow": "The tabletop gaming market is booming, but abstract strategy games are seeing a renaissance. Capitalizing on the post-holiday Kickstarter season is critical."
+    "whyNow": "The tabletop gaming market is booming, but abstract strategy games are seeing a renaissance. Capitalizing on the post-holiday Kickstarter season is critical.",
+    "brandName": "Forma Games",
+    "tagline": "Strategy, Distilled."
   },
   {
     "id": 25,
@@ -572,7 +620,9 @@ export const briefs = [
     "typography": "Primary: Larken (for mysterious, sharp, editorial elegance), Secondary: Apercu (for clean, legible botanical notes).",
     "keyFeatures": "Heavy frosted glass bottle, intricate copper foil botanical illustrations, custom 'field guide' neck tag detailing foraging methods.",
     "budgetTimeline": "8 weeks, $90k",
-    "whyNow": "'Dry January' is approaching, and the brand needs a full relaunch to capture the massive surge in non-alcoholic beverage consumer interest."
+    "whyNow": "'Dry January' is approaching, and the brand needs a full relaunch to capture the massive surge in non-alcoholic beverage consumer interest.",
+    "brandName": "Lucid Botanics",
+    "tagline": "The complexity of spirit, without the proof."
   },
   {
     "id": 26,
@@ -595,7 +645,9 @@ export const briefs = [
     "typography": "Primary: Space Mono (for technical, brutalist vibe), Secondary: Suisse Int'l (for hyper-legible, precise keycap legends).",
     "keyFeatures": "Anodized aluminum warranty card, heavy industrial unboxing experience, hyper-precise keycap legend typography system.",
     "budgetTimeline": "10 weeks, $120k",
-    "whyNow": "Supply chain constraints have eased, allowing for a new flagship board release. Enthusiast demand is at an all-time high, and competitors are delayed."
+    "whyNow": "Supply chain constraints have eased, allowing for a new flagship board release. Enthusiast demand is at an all-time high, and competitors are delayed.",
+    "brandName": "Monolith Machining",
+    "tagline": "Engineered for extreme precision."
   },
   {
     "id": 27,
@@ -618,7 +670,9 @@ export const briefs = [
     "typography": "Primary: Windsor (for warm, rustic, heritage appeal), Secondary: Brandon Grotesque (for modern, friendly instructional copy).",
     "keyFeatures": "Sturdy unbleached 2kg paper sack with reinforced stitching, tear-away sourdough feeding guide bookmark, modern woodblock-style wheat illustration.",
     "budgetTimeline": "6 weeks, $50k",
-    "whyNow": "The home-baking trend has stabilized into a dedicated hobbyist market. The brand needs to differentiate itself before the fall baking season peaks."
+    "whyNow": "The home-baking trend has stabilized into a dedicated hobbyist market. The brand needs to differentiate itself before the fall baking season peaks.",
+    "brandName": "The Miller's Mark",
+    "tagline": "Stone-ground heritage, baked with soul."
   },
   {
     "id": 28,
@@ -641,7 +695,9 @@ export const briefs = [
     "typography": "Primary: Univers (for clinical, stark, laboratory-style precision), Secondary: Caslon (for subtle, pretentious heritage notes on the scent profile).",
     "keyFeatures": "Amber glass bottle with matte black hardware, rigid architectural cardboard mailing tube, purely typographic label design highlighting scent notes.",
     "budgetTimeline": "7 weeks, $65k",
-    "whyNow": "Expanding into the home fragrance market is a strategic move to capture holiday gifting revenue. The product needs to hit shelves by November 1st."
+    "whyNow": "Expanding into the home fragrance market is a strategic move to capture holiday gifting revenue. The product needs to hit shelves by November 1st.",
+    "brandName": "Atelier Aether",
+    "tagline": "Atmosphere, bottled."
   },
   {
     "id": 29,
@@ -664,7 +720,9 @@ export const briefs = [
     "typography": "Primary: Canela (for flared, elegant, and decadent headers), Secondary: Proxima Nova (for clean, unobtrusive ingredient lists).",
     "keyFeatures": "Heavy, reusable geometric tin canister, seamless Art Deco-inspired repeating pattern, velvety tactile finish on outer packaging.",
     "budgetTimeline": "9 weeks, $100k",
-    "whyNow": "Winter is the core selling season. The brand must finalize production by late summer to ensure global distribution to luxury resorts before the first snowfall."
+    "whyNow": "Winter is the core selling season. The brand must finalize production by late summer to ensure global distribution to luxury resorts before the first snowfall.",
+    "brandName": "Velvet Reserve",
+    "tagline": "Decadence in every drop."
   },
   {
     "id": 30,
@@ -687,7 +745,9 @@ export const briefs = [
     "typography": "Primary: Druk Wide (for aggressive, loud, and impactful wordmarks), Secondary: Helvetica Neue (for raw, unpolished, DIY-style secondary text).",
     "keyFeatures": "Typographic-only wordmark logo, 'destructible' deck graphics that reveal hidden layers when scratched, hazard-yellow and raw wood visual system.",
     "budgetTimeline": "5 weeks, $40k",
-    "whyNow": "The spring skate season is about to kick off, and a highly anticipated team video is premiering next month. The new deck graphics must be available immediately after the premiere."
+    "whyNow": "The spring skate season is about to kick off, and a highly anticipated team video is premiering next month. The new deck graphics must be available immediately after the premiere.",
+    "brandName": "Concrete Syndicate",
+    "tagline": "Built for the streets. Destroy with respect."
   },
   {
     "id": 31,
@@ -709,7 +769,9 @@ export const briefs = [
     "typography": "Space Mono, Inter Tight",
     "competitors": "IBM Quantum, Rigetti, IonQ",
     "references": "Palantir Foundry, Cyberpunk aesthetics, high-end synth interfaces",
-    "deliverables": "Data Visualization System, Web App Dashboard, Component Library"
+    "deliverables": "Data Visualization System, Web App Dashboard, Component Library",
+    "brandName": "Qubix Core",
+    "tagline": "Visualizing the quantum realm."
   },
   {
     "id": 32,
@@ -731,7 +793,9 @@ export const briefs = [
     "typography": "Roboto Mono, Helvetica Now Display",
     "competitors": "Caterpillar MineStar, Komatsu FrontRunner",
     "references": "Air traffic control interfaces, Bloomberg Terminal, military HUDs",
-    "deliverables": "Desktop App Interface, Design System, Keyboard Interaction Model"
+    "deliverables": "Desktop App Interface, Design System, Keyboard Interaction Model",
+    "brandName": "Subterra Command",
+    "tagline": "Uncompromising autonomous control."
   },
   {
     "id": 33,
@@ -753,7 +817,9 @@ export const briefs = [
     "typography": "Proxima Nova, Merriweather",
     "competitors": "Tempus, Flatiron Health",
     "references": "Modern EHRs, Apple Health data visualizations, high-end banking apps for security",
-    "deliverables": "Web App, Role-based Access Design, Data Visualization Guidelines"
+    "deliverables": "Web App, Role-based Access Design, Data Visualization Guidelines",
+    "brandName": "GeneLink Bio",
+    "tagline": "Connecting patients to tomorrow's cures."
   },
   {
     "id": 34,
@@ -775,7 +841,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible",
     "competitors": "Gov.uk, Singpass",
     "references": "Gov.uk design system, Apple Wallet, native OS accessibility features",
-    "deliverables": "Mobile App, Accessibility Audit Report, Universal Design System"
+    "deliverables": "Mobile App, Accessibility Audit Report, Universal Design System",
+    "brandName": "OmniPass",
+    "tagline": "Your digital identity, universally accessible."
   },
   {
     "id": 35,
@@ -797,7 +865,9 @@ export const briefs = [
     "typography": "Open Sans",
     "competitors": "SAP, Oracle NetSuite, Dynamics 365",
     "references": "Stripe Dashboard, Linear, complex SaaS admin panels",
-    "deliverables": "Unified Web Dashboard, Micro-frontend Integration Specs, CSS Reskin Framework"
+    "deliverables": "Unified Web Dashboard, Micro-frontend Integration Specs, CSS Reskin Framework",
+    "brandName": "OmniGlobal Nexus",
+    "tagline": "Unifying global supply chains."
   },
   {
     "id": 36,
@@ -819,7 +889,9 @@ export const briefs = [
     "typography": "Michroma, Roboto",
     "competitors": "Lockheed Martin space systems, SpaceX internal tools",
     "references": "Sci-fi command centers (Expanse, Star Trek), NASA Mission Control, modern gaming UIs",
-    "deliverables": "Wall-Display UI, Tablet Controller UI, 3D Interaction Guidelines"
+    "deliverables": "Wall-Display UI, Tablet Controller UI, 3D Interaction Guidelines",
+    "brandName": "AeroSpace Sentinel",
+    "tagline": "Precision tracking for the final frontier."
   },
   {
     "id": 37,
@@ -841,7 +913,9 @@ export const briefs = [
     "typography": "IBM Plex Mono",
     "competitors": "Bloomberg Terminal, Refinitiv Eikon, TT (Trading Technologies)",
     "references": "Matrix code rain, raw terminal outputs, professional esports HUDs",
-    "deliverables": "Desktop Trading Application, Data Density Specs, UI Performance Budget"
+    "deliverables": "Desktop Trading Application, Data Density Specs, UI Performance Budget",
+    "brandName": "Apex Velocity",
+    "tagline": "Zero latency. Absolute execution."
   },
   {
     "id": 38,
@@ -863,7 +937,9 @@ export const briefs = [
     "typography": "Impact, Arial Black, system default sans",
     "competitors": "DJI Agriculture, John Deere Operations Center",
     "references": "Construction equipment dashboards, Garmin outdoor GPS, rugged military tech",
-    "deliverables": "iPad App Design, Field Testing Protocol, High-Contrast UI Kit"
+    "deliverables": "iPad App Design, Field Testing Protocol, High-Contrast UI Kit",
+    "brandName": "AgriSwarm Field Ops",
+    "tagline": "Autonomous precision for the modern farm."
   },
   {
     "id": 39,
@@ -885,7 +961,9 @@ export const briefs = [
     "typography": "Noto Sans (covers all scripts)",
     "competitors": "Palantir, custom government portals",
     "references": "Wikipedia architecture, international airport signage, UN digital properties",
-    "deliverables": "Web Application, Internationalization (i18n) Design Guidelines, Iconography System"
+    "deliverables": "Web Application, Internationalization (i18n) Design Guidelines, Iconography System",
+    "brandName": "HealthRoute",
+    "tagline": "Coordinating care without borders."
   },
   {
     "id": 40,
@@ -907,7 +985,9 @@ export const briefs = [
     "typography": "SF Pro Spatial",
     "competitors": "Osso VR, FundamentalVR",
     "references": "Apple Vision Pro medical apps, Iron Man HUD, Minority Report",
-    "deliverables": "Spatial UI/UX Guidelines, Gesture Dictionary, VR Prototype"
+    "deliverables": "Spatial UI/UX Guidelines, Gesture Dictionary, VR Prototype",
+    "brandName": "SurgiVR",
+    "tagline": "Rehearsing precision in spatial reality."
   },
   {
     "id": 41,
@@ -929,7 +1009,9 @@ export const briefs = [
     "typography": "Inter (UI), Roboto Mono (Data entry)",
     "competitors": "Palantir, Thales Group, IDEMIA",
     "references": "Estonia's e-Residency portal, Apple Health records, UK Gov Design System.",
-    "deliverables": "Rugged Tablet UI, Central Command Web Dashboard, Design System, Accessibility Guidelines"
+    "deliverables": "Rugged Tablet UI, Central Command Web Dashboard, Design System, Accessibility Guidelines",
+    "brandName": "CivicTrust",
+    "tagline": "Securing identity anywhere, anytime."
   },
   {
     "id": 42,
@@ -951,7 +1033,9 @@ export const briefs = [
     "typography": "Fira Code (Sequences), Helvetica Neue (UI)",
     "competitors": "Benchling, SnapGene, Illumina BaseSpace",
     "references": "Modern IDEs (VS Code), Bloomberg Terminal (data density), 3D medical imaging software.",
-    "deliverables": "Desktop Application UI, Sequence Visualization Component, Interactive Prototype, Hand-off Documentation"
+    "deliverables": "Desktop Application UI, Sequence Visualization Component, Interactive Prototype, Hand-off Documentation",
+    "brandName": "Synthetica Workbench",
+    "tagline": "Precision engineering for the human code."
   },
   {
     "id": 43,
@@ -973,7 +1057,9 @@ export const briefs = [
     "typography": "Oswald (Headers), Open Sans (Body)",
     "competitors": "Flexport, SAP S/4HANA, Oracle SCM",
     "references": "Military HUDs, Tesla Autopilot visualization, modern air traffic control screens.",
-    "deliverables": "Command Center Web App, AR Headset UI, Voice Interaction Flowchart, Component Library"
+    "deliverables": "Command Center Web App, AR Headset UI, Voice Interaction Flowchart, Component Library",
+    "brandName": "SupplyPulse",
+    "tagline": "The nervous system of global trade."
   },
   {
     "id": 44,
@@ -995,7 +1081,9 @@ export const briefs = [
     "typography": "SF Pro, Space Mono (for booking codes/PNRs)",
     "competitors": "Amadeus Altéa, SabreSonic, Delta Terminals",
     "references": "Stripe Dashboard (data abstraction), Superhuman (keyboard shortcuts), modern point-of-sale systems.",
-    "deliverables": "Agent Terminal Desktop App, Keyboard Mapping Guide, Hybrid Design System, Transition Strategy Document"
+    "deliverables": "Agent Terminal Desktop App, Keyboard Mapping Guide, Hybrid Design System, Transition Strategy Document",
+    "brandName": "AeroMerge Terminal",
+    "tagline": "One terminal. Limitless destinations."
   },
   {
     "id": 45,
@@ -1017,7 +1105,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible, Roboto",
     "competitors": "Philips IntelliVue, GE Healthcare CARESCAPE",
     "references": "Automotive digital dashboards, Apple Watch health metrics, aviation instrument panels.",
-    "deliverables": "Monitor UI screens (various sizes), Contextual State Machine logic, Dark/Light Mode specs, Motion Guidelines for Alarms"
+    "deliverables": "Monitor UI screens (various sizes), Contextual State Machine logic, Dark/Light Mode specs, Motion Guidelines for Alarms",
+    "brandName": "SentientVitals",
+    "tagline": "Clarity when seconds count."
   },
   {
     "id": 46,
@@ -1039,7 +1129,9 @@ export const briefs = [
     "typography": "Iosevka (Fixed pitch), IBM Plex Sans",
     "competitors": "Bloomberg Terminal, Refinitiv Eikon, Symphony",
     "references": "Matrix operator screens, scientific spectroscopy software, F1 telemetry dashboards.",
-    "deliverables": "Native Desktop UI Designs, Modular Widget Library, GPU Shaders spec, Interaction Flow for Crisis Management"
+    "deliverables": "Native Desktop UI Designs, Modular Widget Library, GPU Shaders spec, Interaction Flow for Crisis Management",
+    "brandName": "AetherTrade",
+    "tagline": "Speed beyond perception."
   },
   {
     "id": 47,
@@ -1061,7 +1153,9 @@ export const briefs = [
     "typography": "Exo 2, Source Sans Pro",
     "competitors": "Siemens Spectrum Power, GE Digital Grid, Schneider Electric",
     "references": "SimCity / Cities: Skylines (for simulation UI), modern radar systems, NOAA weather visualization.",
-    "deliverables": "SCADA Web Interface, Map Visualization Guidelines, Sandbox vs Live Mode specs, Component Library"
+    "deliverables": "SCADA Web Interface, Map Visualization Guidelines, Sandbox vs Live Mode specs, Component Library",
+    "brandName": "LuminaGrid",
+    "tagline": "Empowering the energy future."
   },
   {
     "id": 48,
@@ -1083,7 +1177,9 @@ export const briefs = [
     "typography": "Rajdhani (Numbers), Inter (UI)",
     "competitors": "LeoLabs, NorthStar Earth & Space, US Space Command systems",
     "references": "Kerbal Space Program (orbital mechanics visualization), modern planetarium software, advanced air traffic control.",
-    "deliverables": "Web-based Control Room Dashboard, WebGL Visualization Specs, Conjunction Alert Workflows, Data Density Guidelines"
+    "deliverables": "Web-based Control Room Dashboard, WebGL Visualization Specs, Conjunction Alert Workflows, Data Density Guidelines",
+    "brandName": "AstroFlow",
+    "tagline": "Navigating the ultimate frontier."
   },
   {
     "id": 49,
@@ -1105,7 +1201,9 @@ export const briefs = [
     "typography": "Teko, Roboto Mono",
     "competitors": "Anduril Industries, Skydio, Palantir",
     "references": "Real-time strategy games (Starcraft 2 control groups), fluid dynamics simulations, LiDAR mapping software.",
-    "deliverables": "Tablet Touch Interface, Swarm Behavior Interaction Model, Topography Visualization Component, Handoff Specs"
+    "deliverables": "Tablet Touch Interface, Swarm Behavior Interaction Model, Topography Visualization Component, Handoff Specs",
+    "brandName": "HiveCommand",
+    "tagline": "Unify the swarm."
   },
   {
     "id": 50,
@@ -1127,7 +1225,9 @@ export const briefs = [
     "typography": "JetBrains Mono, Inter",
     "competitors": "Weights & Biases, TensorBoard, MLflow",
     "references": "Particle physics simulations, advanced audio mixing equalizers, cyberpunk UI aesthetics.",
-    "deliverables": "ML-Ops Dashboard Web App, Vector Visualization Widget, Data Streaming Architecture UI Guidelines, Design System"
+    "deliverables": "ML-Ops Dashboard Web App, Vector Visualization Widget, Data Streaming Architecture UI Guidelines, Design System",
+    "brandName": "SynapseSight",
+    "tagline": "Visualizing artificial intelligence."
   },
   {
     "id": 51,
@@ -1149,7 +1249,9 @@ export const briefs = [
     "typography": "Inter (UI elements) and IBM Plex Mono (for numerical data and patient vitals).",
     "competitors": "Siemens Healthineers, GE Healthcare, Philips Healthcare.",
     "references": "Minority Report HUDs, modern aviation glass cockpits, Apple Watch health rings.",
-    "deliverables": "Interactive Prototype (Eye-tracking simulated), Design System, Voice Command Matrix, Developer Handoff."
+    "deliverables": "Interactive Prototype (Eye-tracking simulated), Design System, Voice Command Matrix, Developer Handoff.",
+    "brandName": "AethelSight",
+    "tagline": "Focus beyond human limits."
   },
   {
     "id": 52,
@@ -1171,7 +1273,9 @@ export const briefs = [
     "typography": "Roboto (self-hosted) and Courier Prime.",
     "competitors": "Palantir, Lockheed Martin internal tools.",
     "references": "Bloomberg Terminal, military topographic maps, specialized command center dashboards.",
-    "deliverables": "Complete UI/UX Design, Localized Iconography Set, Security Protocol Workflows, Dark Mode / High Contrast modes."
+    "deliverables": "Complete UI/UX Design, Localized Iconography Set, Security Protocol Workflows, Dark Mode / High Contrast modes.",
+    "brandName": "Vanguard Aegis",
+    "tagline": "Absolute security. Absolute clarity."
   },
   {
     "id": 53,
@@ -1193,7 +1297,9 @@ export const briefs = [
     "typography": "Work Sans and SF Pro Display.",
     "competitors": "Maersk, Flexport, FedEx Logistics.",
     "references": "Modern air traffic control software, high-end fintech dashboards, mapping APIs.",
-    "deliverables": "Design System, Web Application, Tablet App for port workers, Cultural Onboarding UX."
+    "deliverables": "Design System, Web Application, Tablet App for port workers, Cultural Onboarding UX.",
+    "brandName": "ApexRoute",
+    "tagline": "Moving the world, together."
   },
   {
     "id": 54,
@@ -1215,7 +1321,9 @@ export const briefs = [
     "typography": "Playfair Display (headings) and Helvetica Neue (data).",
     "competitors": "Goldman Sachs Private Wealth, J.P. Morgan Reserve.",
     "references": "Rolex website, high-end Swiss bank architecture, physical metal credit cards.",
-    "deliverables": "Mobile App UI, iPad Dashboard, Haptic Feedback Prototype, Interaction Design Guidelines."
+    "deliverables": "Mobile App UI, iPad Dashboard, Haptic Feedback Prototype, Interaction Design Guidelines.",
+    "brandName": "Aura Vault",
+    "tagline": "The architecture of exclusive wealth."
   },
   {
     "id": 55,
@@ -1237,7 +1345,9 @@ export const briefs = [
     "typography": "Oswald (for massive readability) and Open Sans.",
     "competitors": "John Deere automated systems, DJI Agriculture.",
     "references": "Construction equipment interfaces, ruggedized military tablets, Garmin outdoor GPS devices.",
-    "deliverables": "iPad Application UI, High-Contrast Design System, Offline State Workflows, Field Testing Protocol."
+    "deliverables": "iPad Application UI, High-Contrast Design System, Offline State Workflows, Field Testing Protocol.",
+    "brandName": "TerraVista",
+    "tagline": "Commanding the global harvest."
   },
   {
     "id": 56,
@@ -1259,7 +1369,9 @@ export const briefs = [
     "typography": "Nunito and Lora (soft, approachable fonts).",
     "competitors": "Internal Facebook/Google moderation tools, automated generic dashboards.",
     "references": "Meditation apps (Headspace), therapy platforms, calming physical architecture (spas, zen gardens).",
-    "deliverables": "Web App UI, Psychological Safety UX Guidelines, Motion Design for blurring/revealing, User Testing Report."
+    "deliverables": "Web App UI, Psychological Safety UX Guidelines, Motion Design for blurring/revealing, User Testing Report.",
+    "brandName": "MindShield AI",
+    "tagline": "Protecting minds. Moderating truth."
   },
   {
     "id": 57,
@@ -1281,7 +1393,9 @@ export const briefs = [
     "typography": "Rajdhani and Fira Code.",
     "competitors": "Oceaneering International, offshore oil rig control systems.",
     "references": "NASA Mars Rover delay-tolerant interfaces, submarine sonar screens, heavy machinery diagnostics.",
-    "deliverables": "Latency-Tolerant UX Framework, Desktop Control UI, Data Visualization Components, Operator Training Simulator UI."
+    "deliverables": "Latency-Tolerant UX Framework, Desktop Control UI, Data Visualization Components, Operator Training Simulator UI.",
+    "brandName": "Nautilus Echo",
+    "tagline": "Control the abyss."
   },
   {
     "id": 58,
@@ -1303,7 +1417,9 @@ export const briefs = [
     "typography": "Quicksand (friendly) and Roboto (numbers).",
     "competitors": "Tesla App, traditional utility company dashboards.",
     "references": "Venmo, Strava, modern smart home apps (Nest, Hue).",
-    "deliverables": "Mobile App UI/UX, Onboarding Flow, Gamification Strategy, Visual Identity Refresh."
+    "deliverables": "Mobile App UI/UX, Onboarding Flow, Gamification Strategy, Visual Identity Refresh.",
+    "brandName": "CommuneGrid",
+    "tagline": "Power to the neighborhood."
   },
   {
     "id": 59,
@@ -1325,7 +1441,9 @@ export const briefs = [
     "typography": "JetBrains Mono (for code) and Inter (for UI).",
     "competitors": "IBM Quantum Composer, Google Cirq.",
     "references": "Unreal Engine Blueprints (node-based logic), VS Code, data visualization tools.",
-    "deliverables": "IDE Interface Design, Quantum Visualization Components, Developer Onboarding Journey, Design System."
+    "deliverables": "IDE Interface Design, Quantum Visualization Components, Developer Onboarding Journey, Design System.",
+    "brandName": "Q-Forge",
+    "tagline": "Code the quantum realm."
   },
   {
     "id": 60,
@@ -1347,7 +1465,9 @@ export const briefs = [
     "typography": "Helvetica Now Display (authoritative and highly legible at a distance).",
     "competitors": "None (first of its kind system).",
     "references": "SimCity / Cities: Skylines (data views), fluid dynamics simulations, modern rail network control centers.",
-    "deliverables": "Command Center Wall Display UI, Operator Terminal UI, AI Explanation Logic Visuals, Disaster Scenario Workflows."
+    "deliverables": "Command Center Wall Display UI, Operator Terminal UI, AI Explanation Logic Visuals, Disaster Scenario Workflows.",
+    "brandName": "NeoFlow",
+    "tagline": "The pulse of the smart city."
   },
   {
     "id": 61,
@@ -1369,7 +1489,9 @@ export const briefs = [
     "typography": "IBM Plex Sans for data, Space Grotesk for headers.",
     "competitors": "IBM Quantum, D-Wave Systems, Rigetti Computing",
     "references": "Palantir Foundry, Bloomberg Terminal, Stripe Dashboard",
-    "deliverables": "Design System, Web App, High-Fidelity Prototypes, Accessibility Audit Report"
+    "deliverables": "Design System, Web App, High-Fidelity Prototypes, Accessibility Audit Report",
+    "brandName": "QubitFlow",
+    "tagline": "Quantum compute, democratized."
   },
   {
     "id": 62,
@@ -1391,7 +1513,9 @@ export const briefs = [
     "typography": "Inter (system font stack fallback), Roboto Mono for coordinates.",
     "competitors": "Lockheed Martin legacy systems, LeoLabs",
     "references": "SpaceX Crew Dragon Interface, Military HUDs, Air Traffic Control systems",
-    "deliverables": "Design System, Web App, Tablet UI, UX Research Report"
+    "deliverables": "Design System, Web App, Tablet UI, UX Research Report",
+    "brandName": "Aegis Orbit",
+    "tagline": "Securing the final frontier."
   },
   {
     "id": 63,
@@ -1413,7 +1537,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible.",
     "competitors": "Medidata Patient Cloud, Thread Research",
     "references": "Apple Health, Calm, Accessibility-first apps",
-    "deliverables": "Mobile App UI, Voice UI Flows, Accessibility Guidelines, Patient Journey Map"
+    "deliverables": "Mobile App UI, Voice UI Flows, Accessibility Guidelines, Patient Journey Map",
+    "brandName": "HelixCare",
+    "tagline": "Your health journey, illuminated."
   },
   {
     "id": 64,
@@ -1435,7 +1561,9 @@ export const briefs = [
     "typography": "Public Sans, highly readable at small sizes on industrial monitors.",
     "competitors": "Maersk internal systems, Flexport, SAP ERP",
     "references": "Flexport, Asana, modern ERPs",
-    "deliverables": "Enterprise Design System, Desktop Web App, Rugged Mobile App, Change Management UX Guide"
+    "deliverables": "Enterprise Design System, Desktop Web App, Rugged Mobile App, Change Management UX Guide",
+    "brandName": "OmniSync",
+    "tagline": "One world. One network."
   },
   {
     "id": 65,
@@ -1457,7 +1585,9 @@ export const briefs = [
     "typography": "Orbitron for numbers, Roboto for text.",
     "competitors": "Kongsberg Maritime, Oceaneering",
     "references": "DJI Enterprise software, Heavy machinery UI, Sci-fi interfaces (The Expanse)",
-    "deliverables": "Tablet App UI, Touchscreen Console UI, Haptic Feedback Specs, Design System"
+    "deliverables": "Tablet App UI, Touchscreen Console UI, Haptic Feedback Specs, Design System",
+    "brandName": "Abyssal Works",
+    "tagline": "Inspiring the future."
   },
   {
     "id": 66,
@@ -1479,7 +1609,9 @@ export const briefs = [
     "typography": "Merriweather for long-form text (legal standard), Source Sans Pro for UI.",
     "competitors": "Proprietary systems like COMPAS",
     "references": "ProPublica data visualizations, FiveThirtyEight, Legal briefs",
-    "deliverables": "Web App, Data Visualization System, Exportable Report Templates, User Guide"
+    "deliverables": "Web App, Data Visualization System, Exportable Report Templates, User Guide",
+    "brandName": "The Works",
+    "tagline": "Inspiring the future."
   },
   {
     "id": 67,
@@ -1501,7 +1633,9 @@ export const briefs = [
     "typography": "Titillium Web (highly legible, tech-focused).",
     "competitors": "Traditional meat processing SCADA, Siemens Mindsphere",
     "references": "Microsoft HoloLens industrial apps, Iron Man HUD, modern sterile medical equipment",
-    "deliverables": "AR HUD Design, Voice UI Flowchart, Factory Floor Dashboard, Hardware Integration Specs"
+    "deliverables": "AR HUD Design, Voice UI Flowchart, Factory Floor Dashboard, Hardware Integration Specs",
+    "brandName": "NovaCarn",
+    "tagline": "The future of meat, engineered today."
   },
   {
     "id": 68,
@@ -1523,7 +1657,9 @@ export const briefs = [
     "typography": "System defaults (Arial/Helvetica) for cover UI. Courier New for true UI.",
     "competitors": "LocalMonero, Bisq",
     "references": "Tails OS, VeraCrypt, signal desktop",
-    "deliverables": "Dual-State UI/UX, Stealth Onboarding Flow, Security Audit UX Guidelines, Desktop App"
+    "deliverables": "Dual-State UI/UX, Stealth Onboarding Flow, Security Audit UX Guidelines, Desktop App",
+    "brandName": "Umbra Ledger",
+    "tagline": "Transact in the shadows."
   },
   {
     "id": 69,
@@ -1545,7 +1681,9 @@ export const briefs = [
     "typography": "DIN Alternate (standard for German engineering/utilities).",
     "competitors": "GE Digital, Schneider Electric",
     "references": "Nuclear power plant control rooms, EVE Online UI, Bloomberg Terminal",
-    "deliverables": "Control Room Dashboard, Gamification Engagement Strategy, Physical Console UX Specs"
+    "deliverables": "Control Room Dashboard, Gamification Engagement Strategy, Physical Console UX Specs",
+    "brandName": "AeroGrid Dynamics",
+    "tagline": "Powering tomorrow with precision."
   },
   {
     "id": 70,
@@ -1567,7 +1705,9 @@ export const briefs = [
     "typography": "Noto Sans (for the minimal text needed, supporting all scripts).",
     "competitors": "Excel spreadsheets, pen and paper, proprietary WHO tools",
     "references": "IKEA manuals, airport signage, Duolingo interface",
-    "deliverables": "Mobile Web App, Universal Iconography System, Offline Architecture UX, Field Testing Report"
+    "deliverables": "Mobile Web App, Universal Iconography System, Offline Architecture UX, Field Testing Report",
+    "brandName": "OmniCare Logistics",
+    "tagline": "Delivering hope, globally."
   },
   {
     "id": 71,
@@ -1589,7 +1729,9 @@ export const briefs = [
     "typography": "Space Mono for data, Inter for UI elements",
     "competitors": "SpaceX custom internal tools, Lockheed Martin legacy systems",
     "references": "NASA's Orion spacecraft UI, Bloomberg Terminal",
-    "deliverables": "Design System, Tablet App, Desktop Web App"
+    "deliverables": "Design System, Tablet App, Desktop Web App",
+    "brandName": "AeroSphere Orbital",
+    "tagline": "Elevating logistics to new heights."
   },
   {
     "id": 72,
@@ -1611,7 +1753,9 @@ export const briefs = [
     "typography": "Roobert (Headers), IBM Plex Sans (Body/Data)",
     "competitors": "IBM Quantum Safe, Quantinuum",
     "references": "Palantir Foundry, Stripe Dashboard",
-    "deliverables": "Web App Dashboard, Interactive Sales Demo"
+    "deliverables": "Web App Dashboard, Interactive Sales Demo",
+    "brandName": "QuantumFortress",
+    "tagline": "Unbreakable security for the quantum age."
   },
   {
     "id": 73,
@@ -1633,7 +1777,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible",
     "competitors": "John Deere automated systems, Blue River Technology",
     "references": "Construction equipment UI, DJI Drone controllers",
-    "deliverables": "Rugged Tablet App, Iconography System"
+    "deliverables": "Rugged Tablet App, Iconography System",
+    "brandName": "Ceres SwarmTech",
+    "tagline": "Cultivating the future, autonomously."
   },
   {
     "id": 74,
@@ -1655,7 +1801,9 @@ export const briefs = [
     "typography": "System fonts (San Francisco, Segoe UI, Roboto) for zero loading overhead",
     "competitors": "Palantir, custom UN legacy systems",
     "references": "Wikipedia (for load speed), Github (for data density)",
-    "deliverables": "Web App, Mobile Companion App, Design System"
+    "deliverables": "Web App, Mobile Companion App, Design System",
+    "brandName": "Vanguard Link",
+    "tagline": "Connecting care across borders."
   },
   {
     "id": 75,
@@ -1677,7 +1825,9 @@ export const briefs = [
     "typography": "Fira Code (for sequences), SF Pro (for UI)",
     "competitors": "Benchling, SnapGene",
     "references": "Figma, VS Code, AutoCad",
-    "deliverables": "Desktop Web App, Component Library, Design System"
+    "deliverables": "Desktop Web App, Component Library, Design System",
+    "brandName": "Helix Genesis",
+    "tagline": "Engineering life's next breakthrough."
   },
   {
     "id": 76,
@@ -1699,7 +1849,9 @@ export const briefs = [
     "typography": "Roboto Mono (Strictly monospaced for alignment)",
     "competitors": "Bloomberg Terminal, Symphony, custom internal tools of Two Sigma",
     "references": "Air Traffic Control interfaces, Formula 1 telemetry dashboards",
-    "deliverables": "Native Desktop App UI (Electron/React), Data Visualization Library"
+    "deliverables": "Native Desktop App UI (Electron/React), Data Visualization Library",
+    "brandName": "Apex Quantum Trading",
+    "tagline": "Speed. Precision. Alpha."
   },
   {
     "id": 77,
@@ -1721,7 +1873,9 @@ export const briefs = [
     "typography": "Public Sans",
     "competitors": "Salesforce Financial Services Cloud, nCino",
     "references": "Stripe Atlas, modern consumer banking apps (Monzo, Revolut) adapted for enterprise",
-    "deliverables": "Enterprise Web App, Design System, Change Management UI Guide"
+    "deliverables": "Enterprise Web App, Design System, Change Management UI Guide",
+    "brandName": "OmniCorp Synergy",
+    "tagline": "Banking, unified."
   },
   {
     "id": 78,
@@ -1743,7 +1897,9 @@ export const briefs = [
     "typography": "Inter (UI), JetBrains Mono (Data)",
     "competitors": "GE Grid Solutions, Siemens Spectrum Power",
     "references": "SimCity (for data visualization), modern nuclear reactor control rooms",
-    "deliverables": "Control Room Dashboard Web App, Operator Training Module UI"
+    "deliverables": "Control Room Dashboard Web App, Operator Training Module UI",
+    "brandName": "MetroGrid AI",
+    "tagline": "Smart power for a smart city."
   },
   {
     "id": 79,
@@ -1765,7 +1921,9 @@ export const briefs = [
     "typography": "SF Pro (highly legible at small sizes)",
     "competitors": "Intuitive Surgical (Da Vinci), Medtronic",
     "references": "F-35 Fighter Jet HUD, Apple Vision Pro medical apps",
-    "deliverables": "AR HUD Interface, Voice Interaction Model, Design System"
+    "deliverables": "AR HUD Interface, Voice Interaction Model, Design System",
+    "brandName": "Precision Surgical",
+    "tagline": "Flawless execution, every time."
   },
   {
     "id": 80,
@@ -1787,7 +1945,9 @@ export const briefs = [
     "typography": "Overpass (Industrial and highly legible)",
     "competitors": "Custom oil & gas ROV software, Oceaneering tools",
     "references": "Mars Rover command software, Submarine sonar displays",
-    "deliverables": "Desktop App (Surface Ship), Tablet App (Deck Ops)"
+    "deliverables": "Desktop App (Surface Ship), Tablet App (Deck Ops)",
+    "brandName": "Abyssal DeepTech",
+    "tagline": "Unearthing the ocean's potential."
   },
   {
     "id": 81,
@@ -1809,7 +1969,9 @@ export const briefs = [
     "typography": "IBM Plex Mono (for code/data), Inter (for UI text).",
     "competitors": "IBM Quantum Experience, Rigetti Forest, Microsoft Azure Quantum.",
     "references": "Data visualization from minority report, high-end 3D scientific modeling software, node-based compositors like Nuke.",
-    "deliverables": "Design System, Desktop App UI/UX, Interactive WebGL Prototypes"
+    "deliverables": "Design System, Desktop App UI/UX, Interactive WebGL Prototypes",
+    "brandName": "Q-Sphere Quantum",
+    "tagline": "Visualizing the impossible."
   },
   {
     "id": 82,
@@ -1831,7 +1993,9 @@ export const briefs = [
     "typography": "Space Grotesk (headers), Roboto Mono (telemetry data).",
     "competitors": "Oceaneering standard interfaces, custom military submersibles.",
     "references": "Military fighter jet HUDs, professional diving computers, SpaceX Dragon interface.",
-    "deliverables": "Design System, Tablet UI, HUD Overlay Concepts"
+    "deliverables": "Design System, Tablet UI, HUD Overlay Concepts",
+    "brandName": "Nautilus Abyssal",
+    "tagline": "Clarity in the depths."
   },
   {
     "id": 83,
@@ -1853,7 +2017,9 @@ export const briefs = [
     "typography": "Satoshi (Primary), JetBrains Mono (Coordinates).",
     "competitors": "Skydio Enterprise, Anduril Lattice.",
     "references": "Fluid simulation software (Houdini), RTS game macro-controls (Starcraft), weather radar systems.",
-    "deliverables": "Design System, Desktop Web App, Touch-screen Control Terminal UI"
+    "deliverables": "Design System, Desktop Web App, Touch-screen Control Terminal UI",
+    "brandName": "AeroHive Swarm",
+    "tagline": "Command the skies, together."
   },
   {
     "id": 84,
@@ -1875,7 +2041,9 @@ export const briefs = [
     "typography": "Inter (Clean UI), Fira Code (For biological metrics).",
     "competitors": "Benchling, SnapGene.",
     "references": "Figma, Node-based shader editors (Unreal Engine), modular synthesizers.",
-    "deliverables": "Design System, Web App UI/UX, Component Library"
+    "deliverables": "Design System, Web App UI/UX, Component Library",
+    "brandName": "HelixForge BioCAD",
+    "tagline": "Designing life's building blocks."
   },
   {
     "id": 85,
@@ -1897,7 +2065,9 @@ export const briefs = [
     "typography": "Manrope (Friendly, legible), Lora (For formal proposals).",
     "competitors": "Aragon, Snapshot, traditional municipal portals.",
     "references": "Duolingo (for engagement/streaks), Robinhood (for simplifying complex finance), Apple Wallet.",
-    "deliverables": "Design System, Mobile App UI/UX, Governance Web Portal"
+    "deliverables": "Design System, Mobile App UI/UX, Governance Web Portal",
+    "brandName": "Polis DAO",
+    "tagline": "Governance by the people, on-chain."
   },
   {
     "id": 86,
@@ -1919,7 +2089,9 @@ export const briefs = [
     "typography": "Orbitron (Display), Roboto Mono (Data/UI).",
     "competitors": "NASA JPL internal tools, Planetary Resources legacy systems.",
     "references": "Kerbal Space Program (maneuver nodes), video editing timelines (Premiere), Bloomberg Terminal.",
-    "deliverables": "Design System, Desktop Command Interface, Predictive Timeline Component"
+    "deliverables": "Design System, Desktop Command Interface, Predictive Timeline Component",
+    "brandName": "Kessler Astra",
+    "tagline": "Mining the cosmos, autonomously."
   },
   {
     "id": 87,
@@ -1941,7 +2113,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible (Strictly for readability).",
     "competitors": "Neuralink patient app, Synchron software suite.",
     "references": "Headspace (calming UI), Tobii Dynavox interfaces, ambient generative art.",
-    "deliverables": "Design System, Tablet App UI, Gaze-Interaction Guidelines"
+    "deliverables": "Design System, Tablet App UI, Gaze-Interaction Guidelines",
+    "brandName": "Cortex Sync",
+    "tagline": "Empowering thought, effortlessly."
   },
   {
     "id": 88,
@@ -1963,7 +2137,9 @@ export const briefs = [
     "typography": "Fira Code (Primary), Fira Sans (UI).",
     "competitors": "OpenAI internal tools, Anthropic Interpretability tools, Weights & Biases.",
     "references": "Graph databases (Neo4j), Palantir Gotham, advanced particle system editors.",
-    "deliverables": "Design System, Desktop Web App, Vector Visualization Component"
+    "deliverables": "Design System, Desktop Web App, Vector Visualization Component",
+    "brandName": "Sentient Debugger",
+    "tagline": "Illuminating the black box."
   },
   {
     "id": 89,
@@ -1985,7 +2161,9 @@ export const briefs = [
     "typography": "Inter (Heavy weights for numbers), SF Pro (UI).",
     "competitors": "FedEx Custom Critical, DHL Medical Express.",
     "references": "Garmin rugged GPS interfaces, aviation flight computers, ruggedized industrial scanners.",
-    "deliverables": "Design System, Rugged Mobile App UI, Smartwatch Companion App"
+    "deliverables": "Design System, Rugged Mobile App UI, Smartwatch Companion App",
+    "brandName": "Aethelgard Kinetics",
+    "tagline": "Preserving Life's Most Critical Cargo."
   },
   {
     "id": 90,
@@ -2007,7 +2185,9 @@ export const briefs = [
     "typography": "Cinzel (Cinematic Headers), Fira Sans (Dense UI Data).",
     "competitors": "No direct commercial competitors. Internal academic models.",
     "references": "Universe Sandbox, Google Earth Engine, Microsoft Flight Simulator (weather system UI).",
-    "deliverables": "Design System, Desktop Client UI, WebGL Pitch Presentation Mode"
+    "deliverables": "Design System, Desktop Client UI, WebGL Pitch Presentation Mode",
+    "brandName": "Genesis Atmos",
+    "tagline": "Breathing Life into Dead Worlds."
   },
   {
     "id": 91,
@@ -2029,7 +2209,9 @@ export const briefs = [
     "typography": "JetBrains Mono for data, Inter for UI elements",
     "competitors": "IBM Quantum, Google Quantum AI, Rigetti Computing",
     "references": "CERN control rooms, generative abstract math art, Bloomberg Terminal",
-    "deliverables": "Interactive Prototype, Component Library, Custom Data Viz SDK"
+    "deliverables": "Interactive Prototype, Component Library, Custom Data Viz SDK",
+    "brandName": "Q-Flux Horizon",
+    "tagline": "Visualizing the Quantum Edge."
   },
   {
     "id": 92,
@@ -2051,7 +2233,9 @@ export const briefs = [
     "typography": "Roboto Mono for readouts, Helvetica Now for alerts",
     "competitors": "Triton Submarines, OceanGate (legacy), ROV operators",
     "references": "F-35 fighter jet HUDs, commercial diving equipment, brutalist industrial design",
-    "deliverables": "HUD UI/UX Design, AR Simulation Prototype, Human Factors Testing Report"
+    "deliverables": "HUD UI/UX Design, AR Simulation Prototype, Human Factors Testing Report",
+    "brandName": "Nereus Abyssal",
+    "tagline": "Clarity in the Crushing Deep."
   },
   {
     "id": 93,
@@ -2073,7 +2257,9 @@ export const briefs = [
     "typography": "Space Grotesk, IBM Plex Sans",
     "competitors": "SpaceX Logistics, Blue Origin, traditional ERPs like SAP",
     "references": "Air traffic control systems, Git version control visualization, Kerbal Space Program UI",
-    "deliverables": "Web App, Tablet Interface for Ground Crew, Design System"
+    "deliverables": "Web App, Tablet Interface for Ground Crew, Design System",
+    "brandName": "Ares Vanguard",
+    "tagline": "Connecting Worlds, Across the Void."
   },
   {
     "id": 94,
@@ -2095,7 +2281,9 @@ export const briefs = [
     "typography": "Fira Code for sequences, Poppins for UI",
     "competitors": "Benchling, SnapGene, Geneious",
     "references": "Figma, Node-based shader editors (Blender/Unity), modern IDEs (VS Code)",
-    "deliverables": "Web Application, UI Kit, Interaction Prototypes"
+    "deliverables": "Web Application, UI Kit, Interaction Prototypes",
+    "brandName": "HelixForge Syntax",
+    "tagline": "The Architecture of Life, Visualized."
   },
   {
     "id": 95,
@@ -2117,7 +2305,9 @@ export const briefs = [
     "typography": "Satoshi, Lora (for long-form reading)",
     "competitors": "Kleros, Aragon Court",
     "references": "Prediction markets (Polymarket), high-end news readers, abstract fluid dynamics simulations",
-    "deliverables": "Responsive Web App, Brand Identity Refresh, Tokenomics Visualization"
+    "deliverables": "Responsive Web App, Brand Identity Refresh, Tokenomics Visualization",
+    "brandName": "Lex Consensus",
+    "tagline": "Decentralized Truth. Unquestionable Justice."
   },
   {
     "id": 96,
@@ -2139,7 +2329,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible",
     "competitors": "Neuralink (invasive), Emotiv (commercial), Tobii (eye-tracking)",
     "references": "Meditation apps (Headspace), minimalist museum interactive exhibits, high-accessibility OS designs",
-    "deliverables": "iPad Pro App, Patient Onboarding Flow, Accessibility Design Guidelines"
+    "deliverables": "iPad Pro App, Patient Onboarding Flow, Accessibility Design Guidelines",
+    "brandName": "Synapse Clarity",
+    "tagline": "Thought translated. Effortless connection."
   },
   {
     "id": 97,
@@ -2161,7 +2353,9 @@ export const briefs = [
     "typography": "Michroma, Roboto Condensed",
     "competitors": "Planetary Resources (defunct), AstroForge",
     "references": "Industrial CAD software, EVE Online tactical overviews, geological survey tools",
-    "deliverables": "Desktop Application, 3D Visualization Components, Design System"
+    "deliverables": "Desktop Application, 3D Visualization Components, Design System",
+    "brandName": "BelterCorp Extraction",
+    "tagline": "Harvesting the Heavens."
   },
   {
     "id": 98,
@@ -2183,7 +2377,9 @@ export const briefs = [
     "typography": "Helvetica Neue (strict grid), SF Mono",
     "competitors": "Make Sunsets, Academic Research Institutions",
     "references": "NORAD missile defense UI, global weather models (Windy.com), secure banking terminals",
-    "deliverables": "Web-based Control Center, Security Protocol UX Flow, Global Map Data Viz"
+    "deliverables": "Web-based Control Center, Security Protocol UX Flow, Global Map Data Viz",
+    "brandName": "Stratos Command",
+    "tagline": "Engineering the Global Climate."
   },
   {
     "id": 99,
@@ -2205,7 +2401,9 @@ export const briefs = [
     "typography": "Overpass, Fira Sans",
     "competitors": "Dassault Systèmes, Schrödinger, BIOVIA",
     "references": "Houdini FX, Unreal Engine Nanite tech demos, electron microscope imagery",
-    "deliverables": "Desktop Software Design, Custom Render Engine UI, Micro-Interaction Specs"
+    "deliverables": "Desktop Software Design, Custom Render Engine UI, Micro-Interaction Specs",
+    "brandName": "NanoLattice Architect",
+    "tagline": "Designing Reality at the Atomic Scale."
   },
   {
     "id": 100,
@@ -2227,7 +2425,9 @@ export const briefs = [
     "typography": "Garamond Premier Pro (for documents), Inter (for interface)",
     "competitors": "LexisNexis, Relativity, Harvey AI",
     "references": "High-end legal software, Obsidian.md graph view, Palantir Gotham",
-    "deliverables": "Web App, Semantic Data Visualization Tool, Human-AI Interaction Guidelines"
+    "deliverables": "Web App, Semantic Data Visualization Tool, Human-AI Interaction Guidelines",
+    "brandName": "Cogito Advocate",
+    "tagline": "Defending the Mind, Human or Machine."
   },
   {
     "id": 101,
@@ -2249,7 +2449,9 @@ export const briefs = [
     "typography": "Space Grotesk (Headers), JetBrains Mono (Code/UI data).",
     "competitors": "IBM Quantum Composer, Classiq, Zapata Computing.",
     "references": "Minority Report UI, Teenage Engineering synth interfaces, Dark mode IDEs.",
-    "deliverables": "Design System, Web App Dashboard, Interactive Node Editor UI"
+    "deliverables": "Design System, Web App Dashboard, Interactive Node Editor UI",
+    "brandName": "QubitSynapse Vision",
+    "tagline": "The Shape of Quantum Logic."
   },
   {
     "id": 102,
@@ -2271,7 +2473,9 @@ export const briefs = [
     "typography": "Inter (UI), Roboto Mono (Telemetry).",
     "competitors": "Oceaneering legacy systems, Forum Energy Technologies.",
     "references": "Aviation HUDs, SpaceX Crew Dragon interface, medical vital monitors.",
-    "deliverables": "Ruggedized Tablet UI, Desktop Command Center, Alert System Guidelines"
+    "deliverables": "Ruggedized Tablet UI, Desktop Command Center, Alert System Guidelines",
+    "brandName": "Nereus Vanguard HUD",
+    "tagline": "Navigating the Abyss, Intuitively."
   },
   {
     "id": 103,
@@ -2293,7 +2497,9 @@ export const briefs = [
     "typography": "IBM Plex Sans (Body), IBM Plex Mono (Coordinates).",
     "competitors": "LeoLabs, Slingshot Aerospace.",
     "references": "Kerbal Space Program tracking station, military radar systems, Bloomberg Terminal.",
-    "deliverables": "Web App, AR/VR Interface Prototypes, Design System"
+    "deliverables": "Web App, AR/VR Interface Prototypes, Design System",
+    "brandName": "Aegis Orbital Matrix",
+    "tagline": "Securing the Highways of Space."
   },
   {
     "id": 104,
@@ -2315,7 +2521,9 @@ export const briefs = [
     "typography": "Outfit (Headings), Fira Code (Sequence Data).",
     "competitors": "Benchling, SnapGene.",
     "references": "Figma's node systems, modern IDEs (VS Code), CAD software.",
-    "deliverables": "Web App UI, Component Library, Interaction Prototypes"
+    "deliverables": "Web App UI, Component Library, Interaction Prototypes",
+    "brandName": "HelixFoundry BioForge",
+    "tagline": "Engineering Life with Absolute Certainty."
   },
   {
     "id": 105,
@@ -2337,7 +2545,9 @@ export const briefs = [
     "typography": "Syne (Display), Inter (Body).",
     "competitors": "Snapshot, Tally, Aragon.",
     "references": "Notion databases, modern DeFi dashboards, Reddit-style nesting.",
-    "deliverables": "Web App, Mobile View, Governance Data Visualization"
+    "deliverables": "Web App, Mobile View, Governance Data Visualization",
+    "brandName": "Ouroboros Governance",
+    "tagline": "The Power of the Collective, Simplified."
   },
   {
     "id": 106,
@@ -2359,7 +2569,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible (Strictly used for all text).",
     "competitors": "Tobii Dynavox, Neuralink (future competitor).",
     "references": "Apple Vision Pro gaze interactions, accessible gaming controllers, radial menus.",
-    "deliverables": "Gaze-controlled UI, Design System for Accessibility, Interaction Models"
+    "deliverables": "Gaze-controlled UI, Design System for Accessibility, Interaction Models",
+    "brandName": "CerebraTech Flow",
+    "tagline": "Communication at the Speed of Thought."
   },
   {
     "id": 107,
@@ -2381,7 +2593,9 @@ export const briefs = [
     "typography": "Larken (Display), Satoshi (Body).",
     "competitors": "Bowery Farming (internal tools), Plenty.",
     "references": "SimCity / Cities Skylines UI, Apple HomeKit, modern IoT dashboards.",
-    "deliverables": "Mobile App, Tablet Dashboard, Procedural UI Guidelines"
+    "deliverables": "Mobile App, Tablet Dashboard, Procedural UI Guidelines",
+    "brandName": "EdenMatrix Canopy",
+    "tagline": "Cultivating the Future, Automatically."
   },
   {
     "id": 108,
@@ -2403,7 +2617,9 @@ export const briefs = [
     "typography": "Chakra Petch (Headers), Roboto (Body).",
     "competitors": "FedEx (Traditional), Hermeus.",
     "references": "FlightRadar24, NASA Mission Control, Palantir Gotham.",
-    "deliverables": "Command Center Web App, Large Screen Displays, Design System"
+    "deliverables": "Command Center Web App, Large Screen Displays, Design System",
+    "brandName": "Mach7 Velocity",
+    "tagline": "Delivering at the Speed of Sound."
   },
   {
     "id": 109,
@@ -2425,7 +2641,9 @@ export const briefs = [
     "typography": "Optima (Timeless), Universal icons.",
     "competitors": "Alcor Life Extension Foundation.",
     "references": "Hospital recovery rooms, Space Odyssey aesthetics, minimalist meditation apps.",
-    "deliverables": "Technician Dashboard, Awakening Kiosk Interface, Iconography Set"
+    "deliverables": "Technician Dashboard, Awakening Kiosk Interface, Iconography Set",
+    "brandName": "Aethelgard Awakening",
+    "tagline": "Your Bridge to Tomorrow."
   },
   {
     "id": 110,
@@ -2447,7 +2665,9 @@ export const briefs = [
     "typography": "Oswald (Headers), Open Sans (Body).",
     "competitors": "Boston Dynamics (Macro), military swarm projects.",
     "references": "Fluid simulation software, tactical maps, finger-painting apps.",
-    "deliverables": "Rugged Tablet App, Gesture Interaction Library, Operator Training Guide"
+    "deliverables": "Rugged Tablet App, Gesture Interaction Library, Operator Training Guide",
+    "brandName": "Myrmidon SwarmLogic",
+    "tagline": "Directing the Power of Many."
   },
   {
     "id": 111,
@@ -2469,7 +2689,9 @@ export const briefs = [
     "typography": "Fira Code (Monospace), Inter (UI)",
     "competitors": "IBM Quantum Experience, Rigetti Forest",
     "references": "TouchDesigner interfaces, CERN data visualization, advanced node-based editors (Blender, Nuke).",
-    "deliverables": "Design System, Web App IDE, Interactive Prototypes"
+    "deliverables": "Design System, Web App IDE, Interactive Prototypes",
+    "brandName": "Qoherent",
+    "tagline": "Unlocking the Quantum Frontier."
   },
   {
     "id": 112,
@@ -2491,7 +2713,9 @@ export const briefs = [
     "typography": "Roboto Mono, Helvetica Neue",
     "competitors": "Triton Submarines internal UI, Woods Hole Oceanographic Institution tools",
     "references": "Fighter jet HUDs (F-35), medical surgical interfaces, minimalist high-contrast dark modes.",
-    "deliverables": "HUD Design, Eye-Tracking Flow Logic, Haptic/Voice Feedback System"
+    "deliverables": "HUD Design, Eye-Tracking Flow Logic, Haptic/Voice Feedback System",
+    "brandName": "Mariana Systems",
+    "tagline": "Navigating the Abyss."
   },
   {
     "id": 113,
@@ -2513,7 +2737,9 @@ export const briefs = [
     "typography": "Space Grotesk, IBM Plex Sans",
     "competitors": "SpaceX custom software, Blue Origin logistics",
     "references": "Kerbal Space Program UI, air traffic control radars, Bloomberg Terminal.",
-    "deliverables": "Design System, Web App Dashboard, 3D Visualization Components"
+    "deliverables": "Design System, Web App Dashboard, 3D Visualization Components",
+    "brandName": "OrbitLogix",
+    "tagline": "Synchronizing the Stars."
   },
   {
     "id": 114,
@@ -2535,7 +2761,9 @@ export const briefs = [
     "typography": "JetBrains Mono, SF Pro Display",
     "competitors": "Benchling, SnapGene",
     "references": "VS Code, Figma, modern IDEs, elegant node graphs.",
-    "deliverables": "Web App UI/UX, Component Library, Interaction Guidelines"
+    "deliverables": "Web App UI/UX, Component Library, Interaction Guidelines",
+    "brandName": "SynthoGene",
+    "tagline": "Compiling the Code of Life."
   },
   {
     "id": 115,
@@ -2557,7 +2785,9 @@ export const briefs = [
     "typography": "Inter, Lora",
     "competitors": "Snapshot, Tally",
     "references": "GovTrack, modern banking apps, sophisticated data journalism graphics (NYT).",
-    "deliverables": "Web App, Mobile App, Visualization Assets"
+    "deliverables": "Web App, Mobile App, Visualization Assets",
+    "brandName": "Votera",
+    "tagline": "Power to the Protocol."
   },
   {
     "id": 116,
@@ -2579,7 +2809,9 @@ export const briefs = [
     "typography": "SF Pro, SF Mono",
     "competitors": "Neuralink internal tools, Medtronic programmer interfaces",
     "references": "Intensive Care Unit (ICU) monitors, high-end audio mixing boards, Apple Health UI.",
-    "deliverables": "Tablet App, Desktop App, Design System"
+    "deliverables": "Tablet App, Desktop App, Design System",
+    "brandName": "NeuroLoom",
+    "tagline": "Rewiring Human Potential."
   },
   {
     "id": 117,
@@ -2601,7 +2833,9 @@ export const briefs = [
     "typography": "Roboto Mono (exclusively)",
     "competitors": "ITER control systems, CERN LHC dashboards",
     "references": "Nuclear submarine control panels, SCADA systems, brutalist UI.",
-    "deliverables": "Control Room Dashboard, Redundant System UI, Interaction Guidelines"
+    "deliverables": "Control Room Dashboard, Redundant System UI, Interaction Guidelines",
+    "brandName": "Aethel Forge",
+    "tagline": "Harnessing the Void."
   },
   {
     "id": 118,
@@ -2623,7 +2857,9 @@ export const briefs = [
     "typography": "Geist, JetBrains Mono",
     "competitors": "Planetary Resources (defunct), AstroForge",
     "references": "Starcraft 2 spectator UI, advanced logistics software, historical delay visualization.",
-    "deliverables": "Web App Dashboard, Design System, Latency UX Guidelines"
+    "deliverables": "Web App Dashboard, Design System, Latency UX Guidelines",
+    "brandName": "AstraMine",
+    "tagline": "Extracting the Future."
   },
   {
     "id": 119,
@@ -2645,7 +2881,9 @@ export const briefs = [
     "typography": "Lota Grotesque, Merriweather",
     "competitors": "Alcor Life Extension UI (outdated), general hospital patient portals",
     "references": "Calm app, premium healthcare portals, high-end spa aesthetics mixed with clinical precision.",
-    "deliverables": "Mobile App (Family), Tablet App (Clinician), Web Portal"
+    "deliverables": "Mobile App (Family), Tablet App (Clinician), Web Portal",
+    "brandName": "Aeterna Medica",
+    "tagline": "Preserving Life's Promise."
   },
   {
     "id": 120,
@@ -2667,7 +2905,9 @@ export const briefs = [
     "typography": "Helvetica Now, Roboto",
     "competitors": "Esri CityEngine, Sidewalk Labs (historical)",
     "references": "Apple Vision Pro UI guidelines, Minority Report (but realistic), architectural physical models.",
-    "deliverables": "XR Interaction Guidelines, Spatial UI Components, Prototype Walkthrough"
+    "deliverables": "XR Interaction Guidelines, Spatial UI Components, Prototype Walkthrough",
+    "brandName": "HoloGrid",
+    "tagline": "Building Tomorrow, Today."
   },
   {
     "id": 121,
@@ -2689,7 +2929,9 @@ export const briefs = [
     "typography": "Fira Code (for data), Inter (for UI), Space Grotesk (for headers)",
     "competitors": "IBM Quantum Experience, Rigetti Forest",
     "references": "Minority Report UI, generative art by Refik Anadol, advanced data visualization in finance.",
-    "deliverables": "Interactive 3D Prototype, Web App UI, Design System"
+    "deliverables": "Interactive 3D Prototype, Web App UI, Design System",
+    "brandName": "Qubit Prime",
+    "tagline": "Seeing the Superposition."
   },
   {
     "id": 122,
@@ -2711,7 +2953,9 @@ export const briefs = [
     "typography": "Rajdhani (Headers), Roboto Mono (Data/Logs)",
     "competitors": "Oceaneering, Fugro",
     "references": "F-35 fighter jet HUDs, submarine combat systems, minimalist tactical UI.",
-    "deliverables": "Gaze-Interaction Prototype, Dashboard UI, Component Library"
+    "deliverables": "Gaze-Interaction Prototype, Dashboard UI, Component Library",
+    "brandName": "Thalassa Robotics",
+    "tagline": "Command the Deep."
   },
   {
     "id": 123,
@@ -2733,7 +2977,9 @@ export const briefs = [
     "typography": "Orbitron (Headers), Helvetica Neue (Body)",
     "competitors": "LeoLabs, Slingshot Aerospace",
     "references": "Kerbal Space Program UI, NASA Mission Control screens, high-end planetarium software.",
-    "deliverables": "Web App Dashboard, 4D Visualization Logic, UI Kit"
+    "deliverables": "Web App Dashboard, 4D Visualization Logic, UI Kit",
+    "brandName": "ClearOrbit",
+    "tagline": "Guarding the Skies."
   },
   {
     "id": 124,
@@ -2755,7 +3001,9 @@ export const briefs = [
     "typography": "Quicksand (Headers), Nunito (Body)",
     "competitors": "Benchling, SnapGene",
     "references": "Factorio (game UI), Lego Mindstorms software, modern no-code builders (Webflow).",
-    "deliverables": "Web App UI, Interactive DNA Builder Prototype, Design System"
+    "deliverables": "Web App UI, Interactive DNA Builder Prototype, Design System",
+    "brandName": "GeneCraft",
+    "tagline": "Design Your Biology."
   },
   {
     "id": 125,
@@ -2777,7 +3025,9 @@ export const briefs = [
     "typography": "Syncopate (Headers), Inter (Body)",
     "competitors": "Snapshot, Aragon",
     "references": "Pokémon GO (for AR integration), Robinhood (for clean financial charts), modern brutalist web design.",
-    "deliverables": "Mobile App UI, AR Integration Concepts, Voting Flow Prototypes"
+    "deliverables": "Mobile App UI, AR Integration Concepts, Voting Flow Prototypes",
+    "brandName": "Civitas",
+    "tagline": "Decentralized Living."
   },
   {
     "id": 126,
@@ -2799,7 +3049,9 @@ export const briefs = [
     "typography": "Atkinson Hyperlegible (All text)",
     "competitors": "Neuralink (internal tools), Synchron",
     "references": "Headspace app, high-accessibility OS settings, minimalist museum audio guides.",
-    "deliverables": "Tablet App UI, Accessibility Design System, Cognitive Feedback Prototypes"
+    "deliverables": "Tablet App UI, Accessibility Design System, Cognitive Feedback Prototypes",
+    "brandName": "CogniFlow",
+    "tagline": "Empowering the Mind."
   },
   {
     "id": 127,
@@ -2821,7 +3073,9 @@ export const briefs = [
     "typography": "IBM Plex Sans (UI), IBM Plex Mono (Telemetry)",
     "competitors": "SpaceX internal tools, NASA Ames software",
     "references": "Nuclear power plant control rooms, aviation glass cockpits, The Martian (film UI).",
-    "deliverables": "Desktop/Tablet Dashboard, Offline-First UI Architecture, Component Library"
+    "deliverables": "Desktop/Tablet Dashboard, Offline-First UI Architecture, Component Library",
+    "brandName": "Ares Frontier",
+    "tagline": "Sustaining Martian Life."
   },
   {
     "id": 128,
@@ -2843,7 +3097,9 @@ export const briefs = [
     "typography": "Chakra Petch (Headers), Roboto (Body)",
     "competitors": "Traditional ATC software (Thales, Raytheon)",
     "references": "Cities: Skylines traffic views, Flightradar24 (but 3D), sci-fi cityscapes (Blade Runner).",
-    "deliverables": "3D Routing Interface, Web App UI, Traffic Visualization Logic"
+    "deliverables": "3D Routing Interface, Web App UI, Traffic Visualization Logic",
+    "brandName": "Aetheria Logistics",
+    "tagline": "Defying Gravity."
   },
   {
     "id": 129,
@@ -2865,7 +3121,9 @@ export const briefs = [
     "typography": "Lora (Headers), Proxima Nova (Body)",
     "competitors": "N/A (Pioneering field)",
     "references": "Video editing software (Premiere Pro), audio spectrographs, dreamy UI aesthetics.",
-    "deliverables": "Desktop App UI, Timeline Component, Visual Distortion Guidelines"
+    "deliverables": "Desktop App UI, Timeline Component, Visual Distortion Guidelines",
+    "brandName": "Lumina Recall",
+    "tagline": "Healing the Past."
   },
   {
     "id": 130,
@@ -2887,6 +3145,8 @@ export const briefs = [
     "typography": "Rubik (All text)",
     "competitors": "Skydio, Anduril",
     "references": "SimCity zoning tools, fluid simulation software, real-time strategy games (Starcraft Zerg mechanics).",
-    "deliverables": "Web App Command Center, Brush Interaction Prototypes, Design System"
+    "deliverables": "Web App Command Center, Brush Interaction Prototypes, Design System",
+    "brandName": "SwarmLogic",
+    "tagline": "Orchestrating the Hive."
   }
 ];
