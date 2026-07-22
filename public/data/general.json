@@ -1,4 +1,4 @@
-export const briefs = [
+[
   {
     "id": 1,
     "title": "Specialty Coffee Roaster",
@@ -4449,4 +4449,4 @@ export const briefs = [
     "references": "Google, Amazon, Microsoft",
     "deliverables": "UI/UX Design, Interactive Prototype, Design System"
   }
-];
+]
